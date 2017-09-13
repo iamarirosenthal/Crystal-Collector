@@ -9,7 +9,7 @@ h1{
 	clear: both;
 	padding: 10px;
 	margin-bottom: 20px;
-	border: solid 1px #ddd;
+	border: solid 1px #000000;
 }
 
 #wrapper {
@@ -24,7 +24,7 @@ h1{
 	clear:both;
 	padding: 15px;
 	margin-top: 20px;
-	border: solid 1px #ddd
+	border: solid 1px #000000
 }
 
 #guessingNumber {
@@ -33,7 +33,7 @@ h1{
 	display: inline-block;
 	padding: 10px;
 	margin-top: 20px;
-	border: solid 1px #ddd
+	border: solid 1px #000000
 }
 
 #scoreboard {
@@ -54,7 +54,7 @@ h1{
 
 .crystalImage {
 	height: 111px;
-	border: solid 1px #272525;
+	border: solid 1px #000000;
 	margin-left: 10px
 }
 
@@ -71,5 +71,5 @@ h1{
 	background: #e5e3ed;
 	display: inline;
 	padding: 20px;
-	border: solid 1px #ddd
+	border: solid 1px #000000
 }
